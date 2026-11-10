@@ -19,25 +19,25 @@
   },
   "0201-102": {
     "title": "Principles of Accounting II",
-    "requires": [],
+    "requires": ["0201-101"],
     "one_of": [],
     "notes": ""
   },
   "0201-201": {
     "title": "Intermediate Accounting I",
-    "requires": [],
+    "requires": ["0201-102"],
     "one_of": [],
     "notes": ""
   },
   "0201-202": {
     "title": "Intermediate Accounting II",
-    "requires": [],
+    "requires": ["0201-201"],
     "one_of": [],
     "notes": ""
   },
   "0201-203": {
     "title": "Cost Accounting",
-    "requires": [],
+    "requires": ["0201-101", "0201-101"],
     "one_of": [],
     "notes": ""
   },
@@ -127,13 +127,13 @@
   },
   "0204-380": {
     "title": "Consulting Project",
-    "requires": [],
+    "requires": ["0204-240"],
     "one_of": [],
     "notes": ""
   },
   "0204-468": {
     "title": "Business Policy & Strategy",
-    "requires": [],
+    "requires": ["0204-341"],
     "one_of": [],
     "notes": ""
   },
@@ -152,18 +152,18 @@
   "0207-272": {
     "title": "Analytical & Statistical Modeling",
     "requires": [],
-    "one_of": [],
+    "one_of": ["0207-271", "0207-270"],
     "notes": ""
   },
   "0207-273": {
     "title": "Analytical & Statistical Modeling",
-    "requires": [],
+    "requires": ["0207-271", "0207-270"],
     "one_of": [],
     "notes": ""
   },
   "0207-274": {
     "title": "Data Analysis & Decision Making",
-    "requires": [],
+    "requires": ["0207-272", "0207-273"],
     "one_of": [],
     "notes": ""
   },
@@ -205,13 +205,13 @@
   },
   "0212-481": {
     "title": "Marketing Research",
-    "requires": [],
+    "requires": ["0212-280"],
     "one_of": [],
     "notes": ""
   },
   "0212-482": {
     "title": "Marketing Strategy",
-    "requires": [],
+    "requires": ["0212-481"],
     "one_of": [],
     "notes": ""
   },
@@ -223,7 +223,7 @@
   },
   "0213-102": {
     "title": "Advanced Edge",
-    "requires": [],
+    "requires": ["0213-101"],
     "one_of": [],
     "notes": ""
   },
