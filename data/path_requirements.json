@@ -1,0 +1,79 @@
+[
+  {
+    "code": "A",
+    "name": "Arts",
+    "group": "distribution",
+    "courses_required": 2,
+    "note": ""
+  },
+  {
+    "code": "H",
+    "name": "Humanities",
+    "group": "distribution",
+    "courses_required": 2,
+    "note": ""
+  },
+  {
+    "code": "SS",
+    "name": "Social Sciences",
+    "group": "distribution",
+    "courses_required": 2,
+    "note": ""
+  },
+  {
+    "code": "NS",
+    "name": "Natural Science",
+    "group": "distribution",
+    "courses_required": 1,
+    "note": ""
+  },
+  {
+    "code": "MCL",
+    "name": "Mathematics, Computing, Logic",
+    "group": "distribution",
+    "courses_required": 1,
+    "note": ""
+  },
+  {
+    "code": "G",
+    "name": "Global Awareness/Civic Engagement",
+    "group": "learning_goal",
+    "courses_required": 2,
+    "note": "Any combination of GL and CE courses may be used."
+  },
+  {
+    "code": "CW",
+    "name": "Written Communication",
+    "group": "learning_goal",
+    "courses_required": 1,
+    "note": ""
+  },
+  {
+    "code": "CO",
+    "name": "Oral Communication",
+    "group": "learning_goal",
+    "courses_required": 1,
+    "note": ""
+  },
+  {
+    "code": "Q",
+    "name": "Quantitative Reasoning",
+    "group": "learning_goal",
+    "courses_required": 2,
+    "note": ""
+  },
+  {
+    "code": "L",
+    "name": "Information Literacy",
+    "group": "learning_goal",
+    "courses_required": 1,
+    "note": ""
+  },
+  {
+    "code": "RJ",
+    "name": "Examining Race, Racism, and Justice",
+    "group": "learning_goal",
+    "courses_required": 1,
+    "note": "Students entering Fall 2025 and later."
+  }
+]

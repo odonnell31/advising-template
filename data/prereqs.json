@@ -1,0 +1,254 @@
+{
+  "0122-107": {
+    "title": "Art & Craft of Writing",
+    "requires": [],
+    "one_of": [],
+    "notes": ""
+  },
+  "0144-110": {
+    "title": "Pre-Calculus",
+    "requires": [],
+    "one_of": [],
+    "notes": ""
+  },
+  "0201-101": {
+    "title": "Principles of Accounting I",
+    "requires": [],
+    "one_of": [],
+    "notes": ""
+  },
+  "0201-102": {
+    "title": "Principles of Accounting II",
+    "requires": [],
+    "one_of": [],
+    "notes": ""
+  },
+  "0201-201": {
+    "title": "Intermediate Accounting I",
+    "requires": [],
+    "one_of": [],
+    "notes": ""
+  },
+  "0201-202": {
+    "title": "Intermediate Accounting II",
+    "requires": [],
+    "one_of": [],
+    "notes": ""
+  },
+  "0201-203": {
+    "title": "Cost Accounting",
+    "requires": [],
+    "one_of": [],
+    "notes": ""
+  },
+  "0201-303": {
+    "title": "Principles of Auditing",
+    "requires": [],
+    "one_of": [],
+    "notes": ""
+  },
+  "0201-401": {
+    "title": "Federal Income Tax I",
+    "requires": [],
+    "one_of": [],
+    "notes": ""
+  },
+  "0201-402": {
+    "title": "Federal Income Tax II",
+    "requires": [],
+    "one_of": [],
+    "notes": ""
+  },
+  "0201-403": {
+    "title": "Advanced Accounting",
+    "requires": [],
+    "one_of": [],
+    "notes": ""
+  },
+  "0201-405": {
+    "title": "Auditing & Accounting Information Systems",
+    "requires": [],
+    "one_of": [],
+    "notes": ""
+  },
+  "0203-111": {
+    "title": "The Price System",
+    "requires": [],
+    "one_of": [],
+    "notes": ""
+  },
+  "0203-112": {
+    "title": "The National Economy",
+    "requires": [],
+    "one_of": [],
+    "notes": ""
+  },
+  "0204-162": {
+    "title": "Business and Society",
+    "requires": [],
+    "one_of": [],
+    "notes": ""
+  },
+  "0204-240": {
+    "title": "Problem Solving in Business",
+    "requires": [],
+    "one_of": [],
+    "notes": ""
+  },
+  "0204-250": {
+    "title": "Business Law I",
+    "requires": [],
+    "one_of": [],
+    "notes": ""
+  },
+  "0204-251": {
+    "title": "Business Law II",
+    "requires": [],
+    "one_of": [],
+    "notes": ""
+  },
+  "0204-252": {
+    "title": "Legal & Ethical Environment of Business",
+    "requires": [],
+    "one_of": [],
+    "notes": ""
+  },
+  "0204-267": {
+    "title": "Business Communications",
+    "requires": [],
+    "one_of": [],
+    "notes": ""
+  },
+  "0204-341": {
+    "title": "International Business",
+    "requires": [],
+    "one_of": [],
+    "notes": ""
+  },
+  "0204-380": {
+    "title": "Consulting Project",
+    "requires": [],
+    "one_of": [],
+    "notes": ""
+  },
+  "0204-468": {
+    "title": "Business Policy & Strategy",
+    "requires": [],
+    "one_of": [],
+    "notes": ""
+  },
+  "0207-270": {
+    "title": "Information Technology & Applications",
+    "requires": [],
+    "one_of": [],
+    "notes": ""
+  },
+  "0207-271": {
+    "title": "Information Technology & Applications",
+    "requires": [],
+    "one_of": [],
+    "notes": ""
+  },
+  "0207-272": {
+    "title": "Analytical & Statistical Modeling",
+    "requires": [],
+    "one_of": [],
+    "notes": ""
+  },
+  "0207-273": {
+    "title": "Analytical & Statistical Modeling",
+    "requires": [],
+    "one_of": [],
+    "notes": ""
+  },
+  "0207-274": {
+    "title": "Data Analysis & Decision Making",
+    "requires": [],
+    "one_of": [],
+    "notes": ""
+  },
+  "0207-373": {
+    "title": "Management of Productions/Operations",
+    "requires": [],
+    "one_of": [],
+    "notes": ""
+  },
+  "0208-367": {
+    "title": "Management of Human Resources",
+    "requires": [],
+    "one_of": [],
+    "notes": ""
+  },
+  "0209-330": {
+    "title": "Managerial Finance",
+    "requires": [],
+    "one_of": [],
+    "notes": ""
+  },
+  "0210-262": {
+    "title": "Art, Science & Practice of Management",
+    "requires": [],
+    "one_of": [],
+    "notes": ""
+  },
+  "0210-366": {
+    "title": "Organizational Behavior",
+    "requires": [],
+    "one_of": [],
+    "notes": ""
+  },
+  "0212-280": {
+    "title": "Marketing",
+    "requires": [],
+    "one_of": [],
+    "notes": ""
+  },
+  "0212-481": {
+    "title": "Marketing Research",
+    "requires": [],
+    "one_of": [],
+    "notes": ""
+  },
+  "0212-482": {
+    "title": "Marketing Strategy",
+    "requires": [],
+    "one_of": [],
+    "notes": ""
+  },
+  "0213-101": {
+    "title": "Willumstad Winning Edge Foundations",
+    "requires": [],
+    "one_of": [],
+    "notes": ""
+  },
+  "0213-102": {
+    "title": "Advanced Edge",
+    "requires": [],
+    "one_of": [],
+    "notes": ""
+  },
+  "0215-461": {
+    "title": "Entrepreneurship",
+    "requires": [],
+    "one_of": [],
+    "notes": ""
+  },
+  "0876-110": {
+    "title": "Oral Commications",
+    "requires": [],
+    "one_of": [],
+    "notes": ""
+  },
+  "0876-112": {
+    "title": "Public Speaking",
+    "requires": [],
+    "one_of": [],
+    "notes": ""
+  },
+  "0952-110": {
+    "title": "First Year Seminar",
+    "requires": [],
+    "one_of": [],
+    "notes": ""
+  }
+}

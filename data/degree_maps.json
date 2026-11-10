@@ -1,0 +1,2507 @@
+{
+  "scraped_at": "2026-11-10T22:20:04+00:00",
+  "code_format": "DDDD-NNN (department-number); join to sections.course_code",
+  "majors": {
+    "marketing": {
+      "major": "marketing",
+      "degree": "BS in Marketing",
+      "source_url": "https://www.adelphi.edu/program/undergraduate/marketing/degree-map/",
+      "page_stated_total_credits": 121,
+      "semesters": [
+        {
+          "year": 1,
+          "year_label": "First Year",
+          "term": "Fall",
+          "semester_index": 1,
+          "stated_total_min": 16,
+          "stated_total_max": 16,
+          "rows": [
+            {
+              "kind": "course",
+              "code": "0204-162",
+              "prefix": "BUS",
+              "code_raw": "BUS 0204-162",
+              "code_fixed": false,
+              "title": "Business and Society",
+              "requirement": "BS Marketing Requirement, PATH Distribution Requirement",
+              "requirement_tags": [
+                "BS Marketing Requirement",
+                "PATH Distribution Requirement"
+              ],
+              "note": "",
+              "credits_min": 3,
+              "credits_max": 3,
+              "credits_raw": "3 credits"
+            },
+            {
+              "kind": "course",
+              "code": "0952-110",
+              "prefix": "FYE",
+              "code_raw": "FYE 0952-110",
+              "code_fixed": false,
+              "title": "First Year Seminar",
+              "requirement": "PATH General Education Requirement",
+              "requirement_tags": [
+                "PATH General Education Requirement"
+              ],
+              "note": "",
+              "credits_min": 4,
+              "credits_max": 4,
+              "credits_raw": "4 credits"
+            },
+            {
+              "kind": "course",
+              "code": "0122-107",
+              "prefix": "ENG",
+              "code_raw": "ENG 0122-107",
+              "code_fixed": false,
+              "title": "Art & Craft of Writing",
+              "requirement": "PATH General Education Requirement",
+              "requirement_tags": [
+                "PATH General Education Requirement"
+              ],
+              "note": "",
+              "credits_min": 3,
+              "credits_max": 3,
+              "credits_raw": "3 credits"
+            },
+            {
+              "kind": "course",
+              "code": "0201-101",
+              "prefix": "ACC",
+              "code_raw": "ACC 0201-101",
+              "code_fixed": false,
+              "title": "Principles of Accounting I",
+              "requirement": "BS Marketing Requirement",
+              "requirement_tags": [
+                "BS Marketing Requirement"
+              ],
+              "note": "",
+              "credits_min": 3,
+              "credits_max": 3,
+              "credits_raw": "3 credits"
+            },
+            {
+              "kind": "course",
+              "code": "0203-111",
+              "prefix": "ECA",
+              "code_raw": "ECA 0203-111",
+              "code_fixed": false,
+              "title": "The Price System",
+              "requirement": "BS Marketing Requirement, PATH Distribution Requirement",
+              "requirement_tags": [
+                "BS Marketing Requirement",
+                "PATH Distribution Requirement"
+              ],
+              "note": "",
+              "credits_min": 3,
+              "credits_max": 3,
+              "credits_raw": "3 credits"
+            },
+            {
+              "kind": "course",
+              "code": "0213-101",
+              "prefix": "BFD",
+              "code_raw": "BFD 0213-101",
+              "code_fixed": false,
+              "title": "Willumstad Winning Edge Foundations",
+              "requirement": "BS Marketing Requirement",
+              "requirement_tags": [
+                "BS Marketing Requirement"
+              ],
+              "note": "For students who entered AU after spring of 2023 ONLY",
+              "credits_min": 0,
+              "credits_max": 0,
+              "credits_raw": "0 credits"
+            }
+          ]
+        },
+        {
+          "year": 1,
+          "year_label": "First Year",
+          "term": "Spring",
+          "semester_index": 2,
+          "stated_total_min": 15,
+          "stated_total_max": 15,
+          "rows": [
+            {
+              "kind": "course",
+              "code": "0201-102",
+              "prefix": "ACC",
+              "code_raw": "ACC 0201-102",
+              "code_fixed": false,
+              "title": "Principles of Accounting II",
+              "requirement": "BS Marketing Requirement",
+              "requirement_tags": [
+                "BS Marketing Requirement"
+              ],
+              "note": "",
+              "credits_min": 3,
+              "credits_max": 3,
+              "credits_raw": "3 credits"
+            },
+            {
+              "kind": "course",
+              "code": "0203-112",
+              "prefix": "ECA",
+              "code_raw": "ECA 0203-112",
+              "code_fixed": false,
+              "title": "The National Economy",
+              "requirement": "BS Marketing Requirement, PATH Distribution Requirement",
+              "requirement_tags": [
+                "BS Marketing Requirement",
+                "PATH Distribution Requirement"
+              ],
+              "note": "",
+              "credits_min": 3,
+              "credits_max": 3,
+              "credits_raw": "3 credits"
+            },
+            {
+              "kind": "course",
+              "code": "0210-262",
+              "prefix": "MGT",
+              "code_raw": "MGT 0210-262",
+              "code_fixed": false,
+              "title": "Art, Science & Practice of Management",
+              "requirement": "BS Marketing Requirement, PATH Distribution Requirement",
+              "requirement_tags": [
+                "BS Marketing Requirement",
+                "PATH Distribution Requirement"
+              ],
+              "note": "",
+              "credits_min": 3,
+              "credits_max": 3,
+              "credits_raw": "3 credits"
+            },
+            {
+              "kind": "elective",
+              "elective_type": "path_elective",
+              "label": "PATH Elective",
+              "requirement": "PATH Course Requirements and Learning Goals",
+              "requirement_tags": [],
+              "reference_url": "https://www.adelphi.edu/path/course-requirements-and-learning-goals/",
+              "note": "",
+              "suggested_codes": [],
+              "credits_min": 3,
+              "credits_max": 3,
+              "credits_raw": "3 credits"
+            },
+            {
+              "kind": "elective",
+              "elective_type": "path_elective",
+              "label": "PATH Elective",
+              "requirement": "PATH Course Requirements and Learning Goals",
+              "requirement_tags": [],
+              "reference_url": "https://www.adelphi.edu/path/course-requirements-and-learning-goals/",
+              "note": "",
+              "suggested_codes": [],
+              "credits_min": 3,
+              "credits_max": 3,
+              "credits_raw": "3 credits"
+            }
+          ]
+        },
+        {
+          "year": 2,
+          "year_label": "Second Year",
+          "term": "Fall",
+          "semester_index": 3,
+          "stated_total_min": 15,
+          "stated_total_max": 16,
+          "rows": [
+            {
+              "kind": "elective",
+              "elective_type": "path_elective",
+              "label": "PATH Elective",
+              "requirement": "PATH Course Requirements and Learning Goals",
+              "requirement_tags": [],
+              "reference_url": "https://www.adelphi.edu/path/course-requirements-and-learning-goals/",
+              "note": "",
+              "suggested_codes": [],
+              "credits_min": 3,
+              "credits_max": 3,
+              "credits_raw": "3 credits"
+            },
+            {
+              "kind": "course",
+              "code": "0144-110",
+              "prefix": "MTH",
+              "code_raw": "MTH 0144-110",
+              "code_fixed": false,
+              "title": "Pre-Calculus",
+              "requirement": "BS Marketing Requirement/PATH Learning Goal",
+              "requirement_tags": [
+                "BS Marketing Requirement",
+                "PATH Learning Goal"
+              ],
+              "note": "",
+              "credits_min": 3,
+              "credits_max": 3,
+              "credits_raw": "3 credits"
+            },
+            {
+              "kind": "alternatives",
+              "options": [
+                {
+                  "code": "0876-110",
+                  "prefix": "SPE",
+                  "code_raw": "SPE 0876-110 or 112",
+                  "code_fixed": false,
+                  "title": "Oral Commications",
+                  "requirement": "BS Marketing Requirement/PATH Learning Goal",
+                  "requirement_tags": [
+                    "BS Marketing Requirement",
+                    "PATH Learning Goal"
+                  ],
+                  "note": ""
+                },
+                {
+                  "code": "0876-112",
+                  "prefix": "SPE",
+                  "code_raw": "SPE 0876-110 or 112",
+                  "code_fixed": false,
+                  "title": "Public Speaking",
+                  "requirement": "BS Marketing Requirement/PATH Learning Goal",
+                  "requirement_tags": [
+                    "BS Marketing Requirement",
+                    "PATH Learning Goal"
+                  ],
+                  "note": ""
+                }
+              ],
+              "also_requires": [],
+              "note": "",
+              "credits_min": 3,
+              "credits_max": 3,
+              "credits_raw": "3 credits"
+            },
+            {
+              "kind": "alternatives",
+              "options": [
+                {
+                  "code": "0207-271",
+                  "prefix": "DSC",
+                  "code_raw": "DSC – 271",
+                  "code_fixed": true,
+                  "title": "Information Technology & Applications",
+                  "requirement": "BS Marketing Requirement",
+                  "requirement_tags": [
+                    "BS Marketing Requirement"
+                  ],
+                  "note": "For students who entered AU prior to summer 2024 ONLY"
+                },
+                {
+                  "code": "0207-270",
+                  "prefix": "DSC",
+                  "code_raw": "DSC 0207-270",
+                  "code_fixed": false,
+                  "title": "Information Technology & Applications",
+                  "requirement": "BS Marketing Requirement",
+                  "requirement_tags": [
+                    "BS Marketing Requirement"
+                  ],
+                  "note": "For students who enter AU Summer 2024/Fall 2024 ONLY"
+                }
+              ],
+              "also_requires": [],
+              "note": "",
+              "credits_min": 3,
+              "credits_max": 4,
+              "credits_raw": "3-4 credits"
+            },
+            {
+              "kind": "elective",
+              "elective_type": "free_elective",
+              "label": "Free Elective",
+              "requirement": "BS Marketing Requirement",
+              "requirement_tags": [
+                "BS Marketing Requirement"
+              ],
+              "reference_url": null,
+              "note": "",
+              "suggested_codes": [],
+              "credits_min": 3,
+              "credits_max": 3,
+              "credits_raw": "3 credits"
+            }
+          ]
+        },
+        {
+          "year": 2,
+          "year_label": "Second Year",
+          "term": "Spring",
+          "semester_index": 4,
+          "stated_total_min": 16,
+          "stated_total_max": 16,
+          "rows": [
+            {
+              "kind": "elective",
+              "elective_type": "free_elective",
+              "label": "Free Elective",
+              "requirement": "BS Marketing Requirement",
+              "requirement_tags": [
+                "BS Marketing Requirement"
+              ],
+              "reference_url": null,
+              "note": "",
+              "suggested_codes": [],
+              "credits_min": 3,
+              "credits_max": 3,
+              "credits_raw": "3 credits"
+            },
+            {
+              "kind": "alternatives",
+              "options": [
+                {
+                  "code": "0207-272",
+                  "prefix": "DSC",
+                  "code_raw": "DSC 0207-272",
+                  "code_fixed": false,
+                  "title": "Analytical & Statistical Modeling",
+                  "requirement": "BS Marketing Requirement, PATH Distribution Requirement, PATH Learning Goal",
+                  "requirement_tags": [
+                    "BS Marketing Requirement",
+                    "PATH Distribution Requirement",
+                    "PATH Learning Goal"
+                  ],
+                  "note": "For students who entered AU prior to summer 2024 ONLY"
+                },
+                {
+                  "code": "0207-273",
+                  "prefix": "DSC",
+                  "code_raw": "DSC 0207-273",
+                  "code_fixed": false,
+                  "title": "Analytical & Statistical Modeling",
+                  "requirement": "BS Marketing Requirement, PATH Distribution Requirement, PATH Learning Goal",
+                  "requirement_tags": [
+                    "BS Marketing Requirement",
+                    "PATH Distribution Requirement",
+                    "PATH Learning Goal"
+                  ],
+                  "note": "For students who enter AU Summer 2024/Fall 2024 ONLY"
+                }
+              ],
+              "also_requires": [
+                {
+                  "code": "0204-240",
+                  "prefix": "BUS",
+                  "code_raw": "BUS 0204-240",
+                  "code_fixed": false,
+                  "title": "Problem Solving in Business",
+                  "requirement": "BS Marketing Requirement",
+                  "requirement_tags": [
+                    "BS Marketing Requirement"
+                  ],
+                  "note": ""
+                }
+              ],
+              "note": "",
+              "credits_min": 4,
+              "credits_max": 4,
+              "credits_raw": "4 credits"
+            },
+            {
+              "kind": "course",
+              "code": "0204-267",
+              "prefix": "BUS",
+              "code_raw": "BUS 0204-267",
+              "code_fixed": false,
+              "title": "Business Communications",
+              "requirement": "BS Marketing Requirement/PATH Learning Goal",
+              "requirement_tags": [
+                "BS Marketing Requirement",
+                "PATH Learning Goal"
+              ],
+              "note": "",
+              "credits_min": 3,
+              "credits_max": 3,
+              "credits_raw": "3 credits"
+            },
+            {
+              "kind": "course",
+              "code": "0204-252",
+              "prefix": "BUS",
+              "code_raw": "BUS 0204-252",
+              "code_fixed": false,
+              "title": "Legal & Ethical Environment of Business",
+              "requirement": "BS Marketing Requirement",
+              "requirement_tags": [
+                "BS Marketing Requirement"
+              ],
+              "note": "",
+              "credits_min": 3,
+              "credits_max": 3,
+              "credits_raw": "3 credits"
+            },
+            {
+              "kind": "course",
+              "code": "0212-280",
+              "prefix": "MKT",
+              "code_raw": "MKT 0212-280",
+              "code_fixed": false,
+              "title": "Marketing",
+              "requirement": "BS Marketing Requirement",
+              "requirement_tags": [
+                "BS Marketing Requirement"
+              ],
+              "note": "",
+              "credits_min": 3,
+              "credits_max": 3,
+              "credits_raw": "3 credits"
+            }
+          ]
+        },
+        {
+          "year": 3,
+          "year_label": "Third Year",
+          "term": "Fall",
+          "semester_index": 5,
+          "stated_total_min": 15,
+          "stated_total_max": 15,
+          "rows": [
+            {
+              "kind": "course",
+              "code": "0210-366",
+              "prefix": "MGT",
+              "code_raw": "MGT 0210-366",
+              "code_fixed": false,
+              "title": "Organizational Behavior",
+              "requirement": "BS Marketing Requirement",
+              "requirement_tags": [
+                "BS Marketing Requirement"
+              ],
+              "note": "",
+              "credits_min": 3,
+              "credits_max": 3,
+              "credits_raw": "3 credits"
+            },
+            {
+              "kind": "course",
+              "code": "0207-274",
+              "prefix": "DSC",
+              "code_raw": "DSC 0207-274",
+              "code_fixed": false,
+              "title": "Data Analysis & Decision Making",
+              "requirement": "BS Marketing Requirement",
+              "requirement_tags": [
+                "BS Marketing Requirement"
+              ],
+              "note": "",
+              "credits_min": 3,
+              "credits_max": 3,
+              "credits_raw": "3 credits"
+            },
+            {
+              "kind": "course",
+              "code": "0204-341",
+              "prefix": "BUS",
+              "code_raw": "BUS 0204-341",
+              "code_fixed": false,
+              "title": "International Business",
+              "requirement": "BS Marketing Requirement, PATH Learning Goal",
+              "requirement_tags": [
+                "BS Marketing Requirement",
+                "PATH Learning Goal"
+              ],
+              "note": "",
+              "credits_min": 3,
+              "credits_max": 3,
+              "credits_raw": "3 credits"
+            },
+            {
+              "kind": "elective",
+              "elective_type": "marketing_elective",
+              "label": "Marketing Elective",
+              "requirement": "BS Marketing Requirement",
+              "requirement_tags": [
+                "BS Marketing Requirement"
+              ],
+              "reference_url": null,
+              "note": "",
+              "suggested_codes": [],
+              "credits_min": 3,
+              "credits_max": 3,
+              "credits_raw": "3 credits"
+            },
+            {
+              "kind": "elective",
+              "elective_type": "path_elective",
+              "label": "PATH Elective",
+              "requirement": "PATH Course Requirements and Learning Goals",
+              "requirement_tags": [],
+              "reference_url": "https://www.adelphi.edu/path/course-requirements-and-learning-goals/",
+              "note": "",
+              "suggested_codes": [],
+              "credits_min": 3,
+              "credits_max": 3,
+              "credits_raw": "3 credits"
+            },
+            {
+              "kind": "course",
+              "code": "0213-102",
+              "prefix": "BFD",
+              "code_raw": "BFD 0213 102",
+              "code_fixed": false,
+              "title": "Advanced Edge",
+              "requirement": "BS Marketing Requirement",
+              "requirement_tags": [
+                "BS Marketing Requirement"
+              ],
+              "note": "For students who entered AU after spring of 2023 ONLY",
+              "credits_min": 0,
+              "credits_max": 0,
+              "credits_raw": "0 credits"
+            }
+          ]
+        },
+        {
+          "year": 3,
+          "year_label": "Third Year",
+          "term": "Spring",
+          "semester_index": 6,
+          "stated_total_min": 15,
+          "stated_total_max": 16,
+          "rows": [
+            {
+              "kind": "elective",
+              "elective_type": "path_elective",
+              "label": "PATH Elective",
+              "requirement": "PATH Course Requirements and Learning Goals",
+              "requirement_tags": [],
+              "reference_url": "https://www.adelphi.edu/path/course-requirements-and-learning-goals/",
+              "note": "",
+              "suggested_codes": [],
+              "credits_min": 3,
+              "credits_max": 3,
+              "credits_raw": "3 credits"
+            },
+            {
+              "kind": "elective",
+              "elective_type": "marketing_elective",
+              "label": "Marketing Elective",
+              "requirement": "BS Marketing Requirement",
+              "requirement_tags": [
+                "BS Marketing Requirement"
+              ],
+              "reference_url": null,
+              "note": "",
+              "suggested_codes": [],
+              "credits_min": 3,
+              "credits_max": 3,
+              "credits_raw": "3 credits"
+            },
+            {
+              "kind": "course",
+              "code": "0207-373",
+              "prefix": "DSC",
+              "code_raw": "DSC 0207-373",
+              "code_fixed": false,
+              "title": "Management of Productions/Operations",
+              "requirement": "BS Marketing Requirement",
+              "requirement_tags": [
+                "BS Marketing Requirement"
+              ],
+              "note": "",
+              "credits_min": 3,
+              "credits_max": 3,
+              "credits_raw": "3 credits"
+            },
+            {
+              "kind": "course",
+              "code": "0209-330",
+              "prefix": "FIN",
+              "code_raw": "FIN 0209-330",
+              "code_fixed": false,
+              "title": "Managerial Finance",
+              "requirement": "BS Marketing Requirement",
+              "requirement_tags": [
+                "BS Marketing Requirement"
+              ],
+              "note": "",
+              "credits_min": 3,
+              "credits_max": 3,
+              "credits_raw": "3 credits"
+            },
+            {
+              "kind": "course",
+              "code": "0208-367",
+              "prefix": "HRM",
+              "code_raw": "HRM 0208-367",
+              "code_fixed": false,
+              "title": "Management of Human Resources",
+              "requirement": "BS Marketing Requirement",
+              "requirement_tags": [
+                "BS Marketing Requirement"
+              ],
+              "note": "",
+              "credits_min": 3,
+              "credits_max": 3,
+              "credits_raw": "3 credits"
+            },
+            {
+              "kind": "course",
+              "code": "0204-380",
+              "prefix": "BUS",
+              "code_raw": "BUS 0204- 380",
+              "code_fixed": false,
+              "title": "Consulting Project",
+              "requirement": "BS Marketing Requirement",
+              "requirement_tags": [
+                "BS Marketing Requirement"
+              ],
+              "note": "For students who enter AU Summer 2024/Fall 2024 ONLY",
+              "credits_min": 1,
+              "credits_max": 1,
+              "credits_raw": "1 credit"
+            }
+          ]
+        },
+        {
+          "year": 4,
+          "year_label": "Fourth Year",
+          "term": "Fall",
+          "semester_index": 7,
+          "stated_total_min": 15,
+          "stated_total_max": 15,
+          "rows": [
+            {
+              "kind": "elective",
+              "elective_type": "path_elective",
+              "label": "PATH Elective",
+              "requirement": "PATH Course Requirements and Learning Goals",
+              "requirement_tags": [],
+              "reference_url": "https://www.adelphi.edu/path/course-requirements-and-learning-goals/",
+              "note": "",
+              "suggested_codes": [],
+              "credits_min": 3,
+              "credits_max": 3,
+              "credits_raw": "3 credits"
+            },
+            {
+              "kind": "course",
+              "code": "0215-461",
+              "prefix": "ENT",
+              "code_raw": "ENT 0215-461",
+              "code_fixed": false,
+              "title": "Entrepreneurship",
+              "requirement": "BS Marketing Requirement",
+              "requirement_tags": [
+                "BS Marketing Requirement"
+              ],
+              "note": "",
+              "credits_min": 3,
+              "credits_max": 3,
+              "credits_raw": "3 credits"
+            },
+            {
+              "kind": "elective",
+              "elective_type": "marketing_elective",
+              "label": "Marketing Elective",
+              "requirement": "BS Marketing Requirement",
+              "requirement_tags": [
+                "BS Marketing Requirement"
+              ],
+              "reference_url": null,
+              "note": "",
+              "suggested_codes": [],
+              "credits_min": 3,
+              "credits_max": 3,
+              "credits_raw": "3 credits"
+            },
+            {
+              "kind": "course",
+              "code": "0212-481",
+              "prefix": "MKT",
+              "code_raw": "MKT 0212-481",
+              "code_fixed": false,
+              "title": "Marketing Research",
+              "requirement": "BS Marketing Requirement, PATH Learning Goal",
+              "requirement_tags": [
+                "BS Marketing Requirement",
+                "PATH Learning Goal"
+              ],
+              "note": "",
+              "credits_min": 3,
+              "credits_max": 3,
+              "credits_raw": "3 credits"
+            },
+            {
+              "kind": "elective",
+              "elective_type": "free_elective",
+              "label": "Free Elective",
+              "requirement": "BS Marketing Requirement",
+              "requirement_tags": [
+                "BS Marketing Requirement"
+              ],
+              "reference_url": null,
+              "note": "",
+              "suggested_codes": [],
+              "credits_min": 3,
+              "credits_max": 3,
+              "credits_raw": "3 credits"
+            }
+          ]
+        },
+        {
+          "year": 4,
+          "year_label": "Fourth Year",
+          "term": "Spring",
+          "semester_index": 8,
+          "stated_total_min": 13,
+          "stated_total_max": 13,
+          "rows": [
+            {
+              "kind": "elective",
+              "elective_type": "marketing_elective",
+              "label": "Marketing Elective",
+              "requirement": "BS Marketing Requirement",
+              "requirement_tags": [
+                "BS Marketing Requirement"
+              ],
+              "reference_url": null,
+              "note": "",
+              "suggested_codes": [],
+              "credits_min": 3,
+              "credits_max": 3,
+              "credits_raw": "3 credits"
+            },
+            {
+              "kind": "course",
+              "code": "0212-482",
+              "prefix": "MKT",
+              "code_raw": "MKT 0212-482",
+              "code_fixed": false,
+              "title": "Marketing Strategy",
+              "requirement": "BS Marketing Requirement",
+              "requirement_tags": [
+                "BS Marketing Requirement"
+              ],
+              "note": "",
+              "credits_min": 3,
+              "credits_max": 3,
+              "credits_raw": "3 credits"
+            },
+            {
+              "kind": "elective",
+              "elective_type": "free_elective",
+              "label": "Free Elective",
+              "requirement": "BS Marketing Requirement",
+              "requirement_tags": [
+                "BS Marketing Requirement"
+              ],
+              "reference_url": null,
+              "note": "",
+              "suggested_codes": [],
+              "credits_min": 4,
+              "credits_max": 4,
+              "credits_raw": "4 credits"
+            },
+            {
+              "kind": "course",
+              "code": "0204-468",
+              "prefix": "BUS",
+              "code_raw": "BUS 0204-468",
+              "code_fixed": false,
+              "title": "Business Policy & Strategy",
+              "requirement": "BS Marketing Requirement",
+              "requirement_tags": [
+                "BS Marketing Requirement"
+              ],
+              "note": "",
+              "credits_min": 3,
+              "credits_max": 3,
+              "credits_raw": "3 credits"
+            }
+          ]
+        }
+      ],
+      "credit_check": {
+        "expected": 121,
+        "page_stated_total": 121,
+        "sum_of_semester_totals": [
+          120,
+          122
+        ],
+        "sum_of_rows": [
+          120,
+          122
+        ]
+      }
+    },
+    "accounting": {
+      "major": "accounting",
+      "degree": "BBA in Accounting",
+      "source_url": "https://www.adelphi.edu/program/undergraduate/accounting/degree-map/",
+      "page_stated_total_credits": 123,
+      "semesters": [
+        {
+          "year": 1,
+          "year_label": "First Year",
+          "term": "Fall",
+          "semester_index": 1,
+          "stated_total_min": 16,
+          "stated_total_max": 16,
+          "rows": [
+            {
+              "kind": "course",
+              "code": "0204-162",
+              "prefix": "BUS",
+              "code_raw": "BUS 0204-162",
+              "code_fixed": false,
+              "title": "Business and Society",
+              "requirement": "BBA Accounting Requirement",
+              "requirement_tags": [
+                "BBA Accounting Requirement"
+              ],
+              "note": "",
+              "credits_min": 3,
+              "credits_max": 3,
+              "credits_raw": "3 credits"
+            },
+            {
+              "kind": "course",
+              "code": "0952-110",
+              "prefix": "FYE",
+              "code_raw": "FYE 0952-110",
+              "code_fixed": false,
+              "title": "First Year Seminar",
+              "requirement": "PATH General Education Requirement",
+              "requirement_tags": [
+                "PATH General Education Requirement"
+              ],
+              "note": "",
+              "credits_min": 4,
+              "credits_max": 4,
+              "credits_raw": "4 credits"
+            },
+            {
+              "kind": "course",
+              "code": "0122-107",
+              "prefix": "ENG",
+              "code_raw": "ENG 0122-107",
+              "code_fixed": false,
+              "title": "Art & Craft of Writing",
+              "requirement": "PATH General Education Requirement",
+              "requirement_tags": [
+                "PATH General Education Requirement"
+              ],
+              "note": "",
+              "credits_min": 3,
+              "credits_max": 3,
+              "credits_raw": "3 credits"
+            },
+            {
+              "kind": "course",
+              "code": "0201-101",
+              "prefix": "ACC",
+              "code_raw": "ACC 0201-101",
+              "code_fixed": false,
+              "title": "Principles of Accounting I",
+              "requirement": "BBA Accounting Requirement",
+              "requirement_tags": [
+                "BBA Accounting Requirement"
+              ],
+              "note": "",
+              "credits_min": 3,
+              "credits_max": 3,
+              "credits_raw": "3 credits"
+            },
+            {
+              "kind": "course",
+              "code": "0203-111",
+              "prefix": "ECA",
+              "code_raw": "ECA 0203-111",
+              "code_fixed": false,
+              "title": "The Price System",
+              "requirement": "BBA Accounting Requirement, PATH General Education Requirement",
+              "requirement_tags": [
+                "BBA Accounting Requirement",
+                "PATH General Education Requirement"
+              ],
+              "note": "",
+              "credits_min": 3,
+              "credits_max": 3,
+              "credits_raw": "3 credits"
+            },
+            {
+              "kind": "course",
+              "code": "0213-101",
+              "prefix": "BFD",
+              "code_raw": "BFD 0213-101",
+              "code_fixed": false,
+              "title": "Willumstad Winning Edge Foundations",
+              "requirement": "BBA Accounting Requirement",
+              "requirement_tags": [
+                "BBA Accounting Requirement"
+              ],
+              "note": "For students who entered AU after spring of 2023 ONLY",
+              "credits_min": 0,
+              "credits_max": 0,
+              "credits_raw": "0 credits"
+            }
+          ]
+        },
+        {
+          "year": 1,
+          "year_label": "First Year",
+          "term": "Spring",
+          "semester_index": 2,
+          "stated_total_min": 15,
+          "stated_total_max": 15,
+          "rows": [
+            {
+              "kind": "course",
+              "code": "0201-102",
+              "prefix": "ACC",
+              "code_raw": "ACC 0201-102",
+              "code_fixed": false,
+              "title": "Principles of Accounting II",
+              "requirement": "BBA Accounting Requirement",
+              "requirement_tags": [
+                "BBA Accounting Requirement"
+              ],
+              "note": "",
+              "credits_min": 3,
+              "credits_max": 3,
+              "credits_raw": "3 credits"
+            },
+            {
+              "kind": "course",
+              "code": "0203-112",
+              "prefix": "ECA",
+              "code_raw": "ECA 0203-112",
+              "code_fixed": false,
+              "title": "The National Economy",
+              "requirement": "BBA Accounting Requirement/PATH General Education Requirement",
+              "requirement_tags": [
+                "BBA Accounting Requirement",
+                "PATH General Education Requirement"
+              ],
+              "note": "",
+              "credits_min": 3,
+              "credits_max": 3,
+              "credits_raw": "3 credits"
+            },
+            {
+              "kind": "course",
+              "code": "0210-262",
+              "prefix": "MGT",
+              "code_raw": "MGT 0210-262",
+              "code_fixed": false,
+              "title": "Art, Science & Practice of Management",
+              "requirement": "BBA Accounting Requirement/PATH General Education Requirement",
+              "requirement_tags": [
+                "BBA Accounting Requirement",
+                "PATH General Education Requirement"
+              ],
+              "note": "",
+              "credits_min": 3,
+              "credits_max": 3,
+              "credits_raw": "3 credits"
+            },
+            {
+              "kind": "elective",
+              "elective_type": "path_elective",
+              "label": "PATH Elective",
+              "requirement": "PATH Course Requirements and Learning Goals",
+              "requirement_tags": [],
+              "reference_url": "https://www.adelphi.edu/path/course-requirements-and-learning-goals/",
+              "note": "",
+              "suggested_codes": [],
+              "credits_min": 3,
+              "credits_max": 3,
+              "credits_raw": "3 credits"
+            },
+            {
+              "kind": "elective",
+              "elective_type": "path_elective",
+              "label": "PATH Elective",
+              "requirement": "PATH Course Requirements and Learning Goals",
+              "requirement_tags": [],
+              "reference_url": "https://www.adelphi.edu/path/course-requirements-and-learning-goals/",
+              "note": "",
+              "suggested_codes": [],
+              "credits_min": 3,
+              "credits_max": 3,
+              "credits_raw": "3 credits"
+            }
+          ]
+        },
+        {
+          "year": 2,
+          "year_label": "Second Year",
+          "term": "Fall",
+          "semester_index": 3,
+          "stated_total_min": 16,
+          "stated_total_max": 16,
+          "rows": [
+            {
+              "kind": "course",
+              "code": "0144-110",
+              "prefix": "MTH",
+              "code_raw": "MTH 0144-110",
+              "code_fixed": false,
+              "title": "Pre-Calculus",
+              "requirement": "BBA Accounting Requirement/PATH General Education Requirement",
+              "requirement_tags": [
+                "BBA Accounting Requirement",
+                "PATH General Education Requirement"
+              ],
+              "note": "",
+              "credits_min": 3,
+              "credits_max": 3,
+              "credits_raw": "3 credits"
+            },
+            {
+              "kind": "alternatives",
+              "options": [
+                {
+                  "code": "0876-110",
+                  "prefix": "SPE",
+                  "code_raw": "SPE 0876-110 OR 112",
+                  "code_fixed": false,
+                  "title": "Oral Communication",
+                  "requirement": "BBA Accounting Requirement/PATH General Education Requirement",
+                  "requirement_tags": [
+                    "BBA Accounting Requirement",
+                    "PATH General Education Requirement"
+                  ],
+                  "note": ""
+                },
+                {
+                  "code": "0876-112",
+                  "prefix": "SPE",
+                  "code_raw": "SPE 0876-110 OR 112",
+                  "code_fixed": false,
+                  "title": "Public Speaking",
+                  "requirement": "BBA Accounting Requirement/PATH General Education Requirement",
+                  "requirement_tags": [
+                    "BBA Accounting Requirement",
+                    "PATH General Education Requirement"
+                  ],
+                  "note": ""
+                }
+              ],
+              "also_requires": [],
+              "note": "",
+              "credits_min": 3,
+              "credits_max": 3,
+              "credits_raw": "3 credits"
+            },
+            {
+              "kind": "alternatives",
+              "options": [
+                {
+                  "code": "0207-271",
+                  "prefix": "DSC",
+                  "code_raw": "DSC 271",
+                  "code_fixed": true,
+                  "title": "Information Technology & Applications",
+                  "requirement": "BBA Accounting Requirement",
+                  "requirement_tags": [
+                    "BBA Accounting Requirement"
+                  ],
+                  "note": "For students who entered AU prior to summer 2024 ONLY"
+                },
+                {
+                  "code": "0207-270",
+                  "prefix": "DSC",
+                  "code_raw": "DSC 0207-270",
+                  "code_fixed": false,
+                  "title": "Information Technology & Applications",
+                  "requirement": "BBA Accounting Requirement",
+                  "requirement_tags": [
+                    "BBA Accounting Requirement"
+                  ],
+                  "note": "For students who enter AU Summer 2024/Fall 2024 ONLY"
+                }
+              ],
+              "also_requires": [
+                {
+                  "code": "0204-240",
+                  "prefix": "BUS",
+                  "code_raw": "BUS 0204-240",
+                  "code_fixed": false,
+                  "title": "Problem Solving in Business",
+                  "requirement": "BBA Accounting Requirement",
+                  "requirement_tags": [
+                    "BBA Accounting Requirement"
+                  ],
+                  "note": ""
+                }
+              ],
+              "note": "",
+              "credits_min": 4,
+              "credits_max": 4,
+              "credits_raw": "4 credits"
+            },
+            {
+              "kind": "course",
+              "code": "0201-201",
+              "prefix": "ACC",
+              "code_raw": "ACC 0201-201",
+              "code_fixed": false,
+              "title": "Intermediate Accounting I",
+              "requirement": "BBA Accounting Requirement",
+              "requirement_tags": [
+                "BBA Accounting Requirement"
+              ],
+              "note": "",
+              "credits_min": 3,
+              "credits_max": 3,
+              "credits_raw": "3 credits"
+            },
+            {
+              "kind": "course",
+              "code": "0201-203",
+              "prefix": "ACC",
+              "code_raw": "ACC 0201-203",
+              "code_fixed": false,
+              "title": "Cost Accounting",
+              "requirement": "BBA Accounting Requirement",
+              "requirement_tags": [
+                "BBA Accounting Requirement"
+              ],
+              "note": "",
+              "credits_min": 3,
+              "credits_max": 3,
+              "credits_raw": "3 credits"
+            }
+          ]
+        },
+        {
+          "year": 2,
+          "year_label": "Second Year",
+          "term": "Spring",
+          "semester_index": 4,
+          "stated_total_min": 16,
+          "stated_total_max": 16,
+          "rows": [
+            {
+              "kind": "elective",
+              "elective_type": "path_elective",
+              "label": "PATH Elective",
+              "requirement": "PATH Course Requirements and Learning Goals",
+              "requirement_tags": [],
+              "reference_url": "https://www.adelphi.edu/path/course-requirements-and-learning-goals/",
+              "note": "",
+              "suggested_codes": [],
+              "credits_min": 3,
+              "credits_max": 3,
+              "credits_raw": "3 credits"
+            },
+            {
+              "kind": "alternatives",
+              "options": [
+                {
+                  "code": "0207-272",
+                  "prefix": "DSC",
+                  "code_raw": "DSC 0207-272",
+                  "code_fixed": false,
+                  "title": "Analytical & Statistical Modeling",
+                  "requirement": "BBA Accounting Requirement/PATH General Education Requirement",
+                  "requirement_tags": [
+                    "BBA Accounting Requirement",
+                    "PATH General Education Requirement"
+                  ],
+                  "note": "For students who entered AU prior to summer 2024 ONLY"
+                },
+                {
+                  "code": "0207-273",
+                  "prefix": "DSC",
+                  "code_raw": "DSC 0207-273",
+                  "code_fixed": false,
+                  "title": "Analytical & Statistical Modeling",
+                  "requirement": "BBA Accounting Requirement/PATH General Education Requirement",
+                  "requirement_tags": [
+                    "BBA Accounting Requirement",
+                    "PATH General Education Requirement"
+                  ],
+                  "note": "For students who enter AU Summer 2024/Fall 2024 ONLY"
+                }
+              ],
+              "also_requires": [],
+              "note": "",
+              "credits_min": 3,
+              "credits_max": 3,
+              "credits_raw": "3 credits"
+            },
+            {
+              "kind": "course",
+              "code": "0201-202",
+              "prefix": "ACC",
+              "code_raw": "ACC 0201-202",
+              "code_fixed": false,
+              "title": "Intermediate Accounting II",
+              "requirement": "BBA Accounting Requirement",
+              "requirement_tags": [
+                "BBA Accounting Requirement"
+              ],
+              "note": "",
+              "credits_min": 4,
+              "credits_max": 4,
+              "credits_raw": "4 credits"
+            },
+            {
+              "kind": "elective",
+              "elective_type": "liberal_arts_elective",
+              "label": "Liberal Arts Elective",
+              "requirement": "BBA Accounting Requirement",
+              "requirement_tags": [
+                "BBA Accounting Requirement"
+              ],
+              "reference_url": null,
+              "note": "",
+              "suggested_codes": [],
+              "credits_min": 3,
+              "credits_max": 3,
+              "credits_raw": "3 credits"
+            },
+            {
+              "kind": "elective",
+              "elective_type": "path_elective",
+              "label": "PATH Elective",
+              "requirement": "PATH Course Requirements and Learning Goals",
+              "requirement_tags": [],
+              "reference_url": "https://www.adelphi.edu/path/course-requirements-and-learning-goals/",
+              "note": "",
+              "suggested_codes": [],
+              "credits_min": 3,
+              "credits_max": 3,
+              "credits_raw": "3 credits"
+            }
+          ]
+        },
+        {
+          "year": 3,
+          "year_label": "Third Year",
+          "term": "Fall",
+          "semester_index": 5,
+          "stated_total_min": 15,
+          "stated_total_max": 15,
+          "rows": [
+            {
+              "kind": "course",
+              "code": "0209-330",
+              "prefix": "FIN",
+              "code_raw": "FIN 0209-330",
+              "code_fixed": false,
+              "title": "Managerial Finance",
+              "requirement": "BBA Accounting Requirement",
+              "requirement_tags": [
+                "BBA Accounting Requirement"
+              ],
+              "note": "",
+              "credits_min": 3,
+              "credits_max": 3,
+              "credits_raw": "3 credits"
+            },
+            {
+              "kind": "course",
+              "code": "0204-250",
+              "prefix": "BUS",
+              "code_raw": "BUS 0204-250",
+              "code_fixed": false,
+              "title": "Business Law I",
+              "requirement": "BBA Accounting Requirement",
+              "requirement_tags": [
+                "BBA Accounting Requirement"
+              ],
+              "note": "",
+              "credits_min": 3,
+              "credits_max": 3,
+              "credits_raw": "3 credits"
+            },
+            {
+              "kind": "course",
+              "code": "0201-303",
+              "prefix": "ACC",
+              "code_raw": "ACC 0201-303",
+              "code_fixed": false,
+              "title": "Principles of Auditing",
+              "requirement": "BBA Accounting Requirement",
+              "requirement_tags": [
+                "BBA Accounting Requirement"
+              ],
+              "note": "",
+              "credits_min": 3,
+              "credits_max": 3,
+              "credits_raw": "3 credits"
+            },
+            {
+              "kind": "course",
+              "code": "0212-280",
+              "prefix": "MKT",
+              "code_raw": "MKT 0212-280",
+              "code_fixed": false,
+              "title": "Marketing",
+              "requirement": "BBA Accounting Requirement",
+              "requirement_tags": [
+                "BBA Accounting Requirement"
+              ],
+              "note": "",
+              "credits_min": 3,
+              "credits_max": 3,
+              "credits_raw": "3 credits"
+            },
+            {
+              "kind": "course",
+              "code": "0207-274",
+              "prefix": "DSC",
+              "code_raw": "DSC 0207 274",
+              "code_fixed": false,
+              "title": "Data Analysis & Decision Making",
+              "requirement": "BBA Accounting Requirement/PATH General Education Requirement",
+              "requirement_tags": [
+                "BBA Accounting Requirement",
+                "PATH General Education Requirement"
+              ],
+              "note": "",
+              "credits_min": 3,
+              "credits_max": 3,
+              "credits_raw": "3 credits"
+            },
+            {
+              "kind": "course",
+              "code": "0213-102",
+              "prefix": "BFD",
+              "code_raw": "BFD 0213 102",
+              "code_fixed": false,
+              "title": "Advanced Edge",
+              "requirement": "BBA Accounting Requirement",
+              "requirement_tags": [
+                "BBA Accounting Requirement"
+              ],
+              "note": "For students who entered AU after spring of 2023 ONLY",
+              "credits_min": 0,
+              "credits_max": 0,
+              "credits_raw": "0 credits"
+            }
+          ]
+        },
+        {
+          "year": 3,
+          "year_label": "Third Year",
+          "term": "Spring",
+          "semester_index": 6,
+          "stated_total_min": 15,
+          "stated_total_max": 16,
+          "rows": [
+            {
+              "kind": "course",
+              "code": "0204-251",
+              "prefix": "BUS",
+              "code_raw": "BUS 0204-251",
+              "code_fixed": false,
+              "title": "Business Law II",
+              "requirement": "BBA Accounting Requirement",
+              "requirement_tags": [
+                "BBA Accounting Requirement"
+              ],
+              "note": "",
+              "credits_min": 3,
+              "credits_max": 3,
+              "credits_raw": "3 credits"
+            },
+            {
+              "kind": "course",
+              "code": "0204-341",
+              "prefix": "BUS",
+              "code_raw": "BUS 0204-341",
+              "code_fixed": false,
+              "title": "International Business",
+              "requirement": "BBA Accounting Requirement/PATH General Education Requirement",
+              "requirement_tags": [
+                "BBA Accounting Requirement",
+                "PATH General Education Requirement"
+              ],
+              "note": "",
+              "credits_min": 3,
+              "credits_max": 3,
+              "credits_raw": "3 credits"
+            },
+            {
+              "kind": "course",
+              "code": "0210-366",
+              "prefix": "MGT",
+              "code_raw": "MGT 0210-366",
+              "code_fixed": false,
+              "title": "Organizational Behavior",
+              "requirement": "BBA Accounting Requirement",
+              "requirement_tags": [
+                "BBA Accounting Requirement"
+              ],
+              "note": "",
+              "credits_min": 3,
+              "credits_max": 3,
+              "credits_raw": "3 credits"
+            },
+            {
+              "kind": "elective",
+              "elective_type": "path_elective",
+              "label": "PATH Elective",
+              "requirement": "PATH Course Requirements and Learning Goals",
+              "requirement_tags": [],
+              "reference_url": "https://www.adelphi.edu/path/course-requirements-and-learning-goals/",
+              "note": "",
+              "suggested_codes": [],
+              "credits_min": 3,
+              "credits_max": 3,
+              "credits_raw": "3 credits"
+            },
+            {
+              "kind": "elective",
+              "elective_type": "liberal_arts_elective",
+              "label": "Liberal Arts Elective",
+              "requirement": "BBA Accounting Requirement",
+              "requirement_tags": [
+                "BBA Accounting Requirement"
+              ],
+              "reference_url": null,
+              "note": "0203 351 Money and Banking suggested",
+              "suggested_codes": [
+                "0203-351"
+              ],
+              "credits_min": 3,
+              "credits_max": 3,
+              "credits_raw": "3 credits"
+            },
+            {
+              "kind": "course",
+              "code": "0204-380",
+              "prefix": "BUS",
+              "code_raw": "BUS 020- 380",
+              "code_fixed": true,
+              "title": "Consulting Project",
+              "requirement": "BBA Management Requirement",
+              "requirement_tags": [
+                "BBA Management Requirement"
+              ],
+              "note": "For students who enter AU Summer 2024/Fall 2024 ONLY",
+              "credits_min": 1,
+              "credits_max": 1,
+              "credits_raw": "1 credit"
+            }
+          ]
+        },
+        {
+          "year": 4,
+          "year_label": "Fourth Year",
+          "term": "Fall",
+          "semester_index": 7,
+          "stated_total_min": 15,
+          "stated_total_max": 15,
+          "rows": [
+            {
+              "kind": "course",
+              "code": "0201-401",
+              "prefix": "ACC",
+              "code_raw": "ACC 0201-401",
+              "code_fixed": false,
+              "title": "Federal Income Tax I",
+              "requirement": "BBA Accounting Requirement",
+              "requirement_tags": [
+                "BBA Accounting Requirement"
+              ],
+              "note": "",
+              "credits_min": 3,
+              "credits_max": 3,
+              "credits_raw": "3 credits"
+            },
+            {
+              "kind": "course",
+              "code": "0201-405",
+              "prefix": "ACC",
+              "code_raw": "ACC 201-405",
+              "code_fixed": true,
+              "title": "Auditing & Accounting Information Systems",
+              "requirement": "BBA Accounting Requirement",
+              "requirement_tags": [
+                "BBA Accounting Requirement"
+              ],
+              "note": "FALL ONLY",
+              "credits_min": 3,
+              "credits_max": 3,
+              "credits_raw": "3 credits"
+            },
+            {
+              "kind": "course",
+              "code": "0207-373",
+              "prefix": "DSC",
+              "code_raw": "DSC 0207-373",
+              "code_fixed": false,
+              "title": "Management of Productions/Operations",
+              "requirement": "BBA Accounting Requirement",
+              "requirement_tags": [
+                "BBA Accounting Requirement"
+              ],
+              "note": "",
+              "credits_min": 3,
+              "credits_max": 3,
+              "credits_raw": "3 credits"
+            },
+            {
+              "kind": "elective",
+              "elective_type": "path_elective",
+              "label": "PATH Elective",
+              "requirement": "PATH Course Requirements and Learning Goals",
+              "requirement_tags": [],
+              "reference_url": "https://www.adelphi.edu/path/course-requirements-and-learning-goals/",
+              "note": "",
+              "suggested_codes": [],
+              "credits_min": 3,
+              "credits_max": 3,
+              "credits_raw": "3 credits"
+            },
+            {
+              "kind": "elective",
+              "elective_type": "free_elective",
+              "label": "Free Elective",
+              "requirement": "BBA Accounting Requirement",
+              "requirement_tags": [
+                "BBA Accounting Requirement"
+              ],
+              "reference_url": null,
+              "note": "BUS 0204-495 internship recommended",
+              "suggested_codes": [
+                "0204-495"
+              ],
+              "credits_min": 3,
+              "credits_max": 3,
+              "credits_raw": "3 credits"
+            }
+          ]
+        },
+        {
+          "year": 4,
+          "year_label": "Fourth Year",
+          "term": "Spring",
+          "semester_index": 8,
+          "stated_total_min": 15,
+          "stated_total_max": 15,
+          "rows": [
+            {
+              "kind": "course",
+              "code": "0201-402",
+              "prefix": "ACC",
+              "code_raw": "ACC 0201-402",
+              "code_fixed": false,
+              "title": "Federal Income Tax II",
+              "requirement": "BBA Accounting Requirement",
+              "requirement_tags": [
+                "BBA Accounting Requirement"
+              ],
+              "note": "",
+              "credits_min": 3,
+              "credits_max": 3,
+              "credits_raw": "3 credits"
+            },
+            {
+              "kind": "course",
+              "code": "0201-403",
+              "prefix": "ACC",
+              "code_raw": "ACC 0201-403",
+              "code_fixed": false,
+              "title": "Advanced Accounting",
+              "requirement": "BBA Accounting Requirement",
+              "requirement_tags": [
+                "BBA Accounting Requirement"
+              ],
+              "note": "",
+              "credits_min": 3,
+              "credits_max": 3,
+              "credits_raw": "3 credits"
+            },
+            {
+              "kind": "elective",
+              "elective_type": "free_elective",
+              "label": "Free Elective",
+              "requirement": "BBA Accounting Requirement",
+              "requirement_tags": [
+                "BBA Accounting Requirement"
+              ],
+              "reference_url": null,
+              "note": "0207-478 or 0201-406 is recommended",
+              "suggested_codes": [
+                "0201-406",
+                "0207-478"
+              ],
+              "credits_min": 3,
+              "credits_max": 3,
+              "credits_raw": "3 credits"
+            },
+            {
+              "kind": "course",
+              "code": "0204-468",
+              "prefix": "BUS",
+              "code_raw": "BUS 0204-468",
+              "code_fixed": false,
+              "title": "Business Policy & Strategy",
+              "requirement": "BBA Accounting Requirement",
+              "requirement_tags": [
+                "BBA Accounting Requirement"
+              ],
+              "note": "",
+              "credits_min": 3,
+              "credits_max": 3,
+              "credits_raw": "3 credits"
+            },
+            {
+              "kind": "elective",
+              "elective_type": "path_elective",
+              "label": "PATH Elective",
+              "requirement": "PATH Course Requirements and Learning Goals",
+              "requirement_tags": [],
+              "reference_url": "https://www.adelphi.edu/path/course-requirements-and-learning-goals/",
+              "note": "",
+              "suggested_codes": [],
+              "credits_min": 3,
+              "credits_max": 3,
+              "credits_raw": "3 credits"
+            }
+          ]
+        }
+      ],
+      "credit_check": {
+        "expected": 123,
+        "page_stated_total": 123,
+        "sum_of_semester_totals": [
+          123,
+          124
+        ],
+        "sum_of_rows": [
+          123,
+          124
+        ]
+      }
+    },
+    "management": {
+      "major": "management",
+      "degree": "BBA in Management",
+      "source_url": "https://www.adelphi.edu/program/undergraduate/management/degree-map/",
+      "page_stated_total_credits": 121,
+      "semesters": [
+        {
+          "year": 1,
+          "year_label": "First Year",
+          "term": "Fall",
+          "semester_index": 1,
+          "stated_total_min": 16,
+          "stated_total_max": 16,
+          "rows": [
+            {
+              "kind": "course",
+              "code": "0204-162",
+              "prefix": "BUS",
+              "code_raw": "BUS 0204-162",
+              "code_fixed": false,
+              "title": "Business and Society",
+              "requirement": "BBA Management Requirement, PATH Distribution Requirement",
+              "requirement_tags": [
+                "BBA Management Requirement",
+                "PATH Distribution Requirement"
+              ],
+              "note": "",
+              "credits_min": 3,
+              "credits_max": 3,
+              "credits_raw": "3 credits"
+            },
+            {
+              "kind": "course",
+              "code": "0952-110",
+              "prefix": "FYE",
+              "code_raw": "FYE 0952-110",
+              "code_fixed": false,
+              "title": "First Year Seminar",
+              "requirement": "PATH General Education Requirement",
+              "requirement_tags": [
+                "PATH General Education Requirement"
+              ],
+              "note": "",
+              "credits_min": 4,
+              "credits_max": 4,
+              "credits_raw": "4 credits"
+            },
+            {
+              "kind": "course",
+              "code": "0122-107",
+              "prefix": "ENG",
+              "code_raw": "ENG 0122-107",
+              "code_fixed": false,
+              "title": "Art & Craft of Writing",
+              "requirement": "PATH General Education Requirement",
+              "requirement_tags": [
+                "PATH General Education Requirement"
+              ],
+              "note": "",
+              "credits_min": 3,
+              "credits_max": 3,
+              "credits_raw": "3 credits"
+            },
+            {
+              "kind": "course",
+              "code": "0201-101",
+              "prefix": "ACC",
+              "code_raw": "ACC 0201-101",
+              "code_fixed": false,
+              "title": "Principles of Accounting I",
+              "requirement": "BBA Management Requirement",
+              "requirement_tags": [
+                "BBA Management Requirement"
+              ],
+              "note": "",
+              "credits_min": 3,
+              "credits_max": 3,
+              "credits_raw": "3 credits"
+            },
+            {
+              "kind": "course",
+              "code": "0203-111",
+              "prefix": "ECA",
+              "code_raw": "ECA 0203-111",
+              "code_fixed": false,
+              "title": "The Price System",
+              "requirement": "BBA Management Requirement, PATH Distribution Requirement",
+              "requirement_tags": [
+                "BBA Management Requirement",
+                "PATH Distribution Requirement"
+              ],
+              "note": "",
+              "credits_min": 3,
+              "credits_max": 3,
+              "credits_raw": "3 credits"
+            },
+            {
+              "kind": "course",
+              "code": "0213-101",
+              "prefix": "BFD",
+              "code_raw": "BFD 0213-101",
+              "code_fixed": false,
+              "title": "Willumstad Winning Edge Foundations",
+              "requirement": "BBA Management Requirement",
+              "requirement_tags": [
+                "BBA Management Requirement"
+              ],
+              "note": "For students who entered AU after spring of 2023 ONLY",
+              "credits_min": 0,
+              "credits_max": 0,
+              "credits_raw": "0 credits"
+            }
+          ]
+        },
+        {
+          "year": 1,
+          "year_label": "First Year",
+          "term": "Spring",
+          "semester_index": 2,
+          "stated_total_min": 15,
+          "stated_total_max": 15,
+          "rows": [
+            {
+              "kind": "course",
+              "code": "0201-102",
+              "prefix": "ACC",
+              "code_raw": "ACC 0201-102",
+              "code_fixed": false,
+              "title": "Principles of Accounting II",
+              "requirement": "BBA Management Requirement",
+              "requirement_tags": [
+                "BBA Management Requirement"
+              ],
+              "note": "",
+              "credits_min": 3,
+              "credits_max": 3,
+              "credits_raw": "3 credits"
+            },
+            {
+              "kind": "course",
+              "code": "0203-112",
+              "prefix": "ECA",
+              "code_raw": "ECA 0203-112",
+              "code_fixed": false,
+              "title": "The National Economy",
+              "requirement": "BBA Management Requirement, PATH Distribution Requirement",
+              "requirement_tags": [
+                "BBA Management Requirement",
+                "PATH Distribution Requirement"
+              ],
+              "note": "",
+              "credits_min": 3,
+              "credits_max": 3,
+              "credits_raw": "3 credits"
+            },
+            {
+              "kind": "course",
+              "code": "0210-262",
+              "prefix": "MGT",
+              "code_raw": "MGT 0210-262",
+              "code_fixed": false,
+              "title": "Art, Science & Practice of Management",
+              "requirement": "BBA Management Requirement, PATH Distribution Requirement",
+              "requirement_tags": [
+                "BBA Management Requirement",
+                "PATH Distribution Requirement"
+              ],
+              "note": "",
+              "credits_min": 3,
+              "credits_max": 3,
+              "credits_raw": "3 credits"
+            },
+            {
+              "kind": "elective",
+              "elective_type": "humanities_elective_global",
+              "label": "Humanities Elective/Global",
+              "requirement": "Distribution Requirement/PATH Learning Goal",
+              "requirement_tags": [
+                "Distribution Requirement",
+                "PATH Learning Goal"
+              ],
+              "reference_url": null,
+              "note": "",
+              "suggested_codes": [],
+              "credits_min": 3,
+              "credits_max": 3,
+              "credits_raw": "3 credits"
+            },
+            {
+              "kind": "elective",
+              "elective_type": "path_elective",
+              "label": "PATH Elective",
+              "requirement": "PATH Course Requirements and Learning Goals",
+              "requirement_tags": [],
+              "reference_url": "https://www.adelphi.edu/path/course-requirements-and-learning-goals/",
+              "note": "",
+              "suggested_codes": [],
+              "credits_min": 3,
+              "credits_max": 3,
+              "credits_raw": "3 credits"
+            }
+          ]
+        },
+        {
+          "year": 2,
+          "year_label": "Second Year",
+          "term": "Fall",
+          "semester_index": 3,
+          "stated_total_min": 15,
+          "stated_total_max": 16,
+          "rows": [
+            {
+              "kind": "elective",
+              "elective_type": "path_elective",
+              "label": "PATH Elective",
+              "requirement": "PATH Course Requirements and Learning Goals",
+              "requirement_tags": [],
+              "reference_url": "https://www.adelphi.edu/path/course-requirements-and-learning-goals/",
+              "note": "",
+              "suggested_codes": [],
+              "credits_min": 3,
+              "credits_max": 3,
+              "credits_raw": "3 credits"
+            },
+            {
+              "kind": "course",
+              "code": "0144-110",
+              "prefix": "MTH",
+              "code_raw": "MTH 0144-110",
+              "code_fixed": false,
+              "title": "Pre-Calculus",
+              "requirement": "BBA Management Requirement/PATH Learning Goal",
+              "requirement_tags": [
+                "BBA Management Requirement",
+                "PATH Learning Goal"
+              ],
+              "note": "",
+              "credits_min": 3,
+              "credits_max": 3,
+              "credits_raw": "3 credits"
+            },
+            {
+              "kind": "alternatives",
+              "options": [
+                {
+                  "code": "0876-110",
+                  "prefix": "SPE",
+                  "code_raw": "SPE 0876-110/112",
+                  "code_fixed": false,
+                  "title": "Oral Communication",
+                  "requirement": "BBA Management Requirement/PATH Learning Goal",
+                  "requirement_tags": [
+                    "BBA Management Requirement",
+                    "PATH Learning Goal"
+                  ],
+                  "note": ""
+                },
+                {
+                  "code": "0876-112",
+                  "prefix": "SPE",
+                  "code_raw": "SPE 0876-110/112",
+                  "code_fixed": false,
+                  "title": "Public Speaking",
+                  "requirement": "BBA Management Requirement/PATH Learning Goal",
+                  "requirement_tags": [
+                    "BBA Management Requirement",
+                    "PATH Learning Goal"
+                  ],
+                  "note": ""
+                }
+              ],
+              "also_requires": [],
+              "note": "",
+              "credits_min": 3,
+              "credits_max": 3,
+              "credits_raw": "3 credits"
+            },
+            {
+              "kind": "alternatives",
+              "options": [
+                {
+                  "code": "0207-271",
+                  "prefix": "DSC",
+                  "code_raw": "DSC 271",
+                  "code_fixed": true,
+                  "title": "Information Technology & Applications",
+                  "requirement": "BBA Management Requirement",
+                  "requirement_tags": [
+                    "BBA Management Requirement"
+                  ],
+                  "note": "For students who entered AU prior to summer 2024 ONLY"
+                },
+                {
+                  "code": "0207-270",
+                  "prefix": "DSC",
+                  "code_raw": "DSC 0207-270",
+                  "code_fixed": false,
+                  "title": "Information Technology & Applications",
+                  "requirement": "BBA Management Requirement",
+                  "requirement_tags": [
+                    "BBA Management Requirement"
+                  ],
+                  "note": "For students who enter AU Summer 2024/Fall 2024 ONLY"
+                }
+              ],
+              "also_requires": [],
+              "note": "",
+              "credits_min": 3,
+              "credits_max": 4,
+              "credits_raw": "3-4 credits"
+            },
+            {
+              "kind": "elective",
+              "elective_type": "free_elective",
+              "label": "Free Elective",
+              "requirement": "BBA Management Requirement",
+              "requirement_tags": [
+                "BBA Management Requirement"
+              ],
+              "reference_url": null,
+              "note": "",
+              "suggested_codes": [],
+              "credits_min": 3,
+              "credits_max": 3,
+              "credits_raw": "3 credits"
+            }
+          ]
+        },
+        {
+          "year": 2,
+          "year_label": "Second Year",
+          "term": "Spring",
+          "semester_index": 4,
+          "stated_total_min": 16,
+          "stated_total_max": 16,
+          "rows": [
+            {
+              "kind": "elective",
+              "elective_type": "free_elective",
+              "label": "Free Elective",
+              "requirement": "BBA Management Requirement",
+              "requirement_tags": [
+                "BBA Management Requirement"
+              ],
+              "reference_url": null,
+              "note": "",
+              "suggested_codes": [],
+              "credits_min": 3,
+              "credits_max": 3,
+              "credits_raw": "3 credits"
+            },
+            {
+              "kind": "alternatives",
+              "options": [
+                {
+                  "code": "0207-272",
+                  "prefix": "DSC",
+                  "code_raw": "DSC 0207-272",
+                  "code_fixed": false,
+                  "title": "Analytical & Statistical Modeling",
+                  "requirement": "BBA Management Requirement, PATH Distribution Requirement, PATH Learning Goal",
+                  "requirement_tags": [
+                    "BBA Management Requirement",
+                    "PATH Distribution Requirement",
+                    "PATH Learning Goal"
+                  ],
+                  "note": "For students who entered AU prior to summer 2024 ONLY"
+                },
+                {
+                  "code": "0207-273",
+                  "prefix": "DSC",
+                  "code_raw": "DSC 0207-273",
+                  "code_fixed": false,
+                  "title": "Analytical & Statistical Modeling",
+                  "requirement": "BBA Management Requirement, PATH Distribution Requirement, PATH Learning Goal",
+                  "requirement_tags": [
+                    "BBA Management Requirement",
+                    "PATH Distribution Requirement",
+                    "PATH Learning Goal"
+                  ],
+                  "note": "For students who enter AU Summer 2024/Fall 2024 ONLY"
+                }
+              ],
+              "also_requires": [
+                {
+                  "code": "0204-240",
+                  "prefix": "BUS",
+                  "code_raw": "BUS 0204-240",
+                  "code_fixed": false,
+                  "title": "Problem Solving in Business",
+                  "requirement": "BBA Management Requirement",
+                  "requirement_tags": [
+                    "BBA Management Requirement"
+                  ],
+                  "note": ""
+                }
+              ],
+              "note": "",
+              "credits_min": 4,
+              "credits_max": 4,
+              "credits_raw": "4 credits"
+            },
+            {
+              "kind": "course",
+              "code": "0204-267",
+              "prefix": "BUS",
+              "code_raw": "BUS 0204-267",
+              "code_fixed": false,
+              "title": "Business Communications",
+              "requirement": "BBA Management Requirement/PATH Learning Goal",
+              "requirement_tags": [
+                "BBA Management Requirement",
+                "PATH Learning Goal"
+              ],
+              "note": "",
+              "credits_min": 3,
+              "credits_max": 3,
+              "credits_raw": "3 credits"
+            },
+            {
+              "kind": "course",
+              "code": "0204-252",
+              "prefix": "BUS",
+              "code_raw": "BUS 0204-252",
+              "code_fixed": false,
+              "title": "Legal & Ethical Environment of Business",
+              "requirement": "BBA Management Requirement",
+              "requirement_tags": [
+                "BBA Management Requirement"
+              ],
+              "note": "",
+              "credits_min": 3,
+              "credits_max": 3,
+              "credits_raw": "3 credits"
+            },
+            {
+              "kind": "course",
+              "code": "0212-280",
+              "prefix": "MKT",
+              "code_raw": "MKT 0212-280",
+              "code_fixed": false,
+              "title": "Marketing",
+              "requirement": "BBA Management Requirement",
+              "requirement_tags": [
+                "BBA Management Requirement"
+              ],
+              "note": "",
+              "credits_min": 3,
+              "credits_max": 3,
+              "credits_raw": "3 credits"
+            }
+          ]
+        },
+        {
+          "year": 3,
+          "year_label": "Third Year",
+          "term": "Fall",
+          "semester_index": 5,
+          "stated_total_min": 15,
+          "stated_total_max": 15,
+          "rows": [
+            {
+              "kind": "course",
+              "code": "0210-366",
+              "prefix": "MGT",
+              "code_raw": "MGT 0210-366",
+              "code_fixed": false,
+              "title": "Organizational Behavior",
+              "requirement": "BBA Management Requirement",
+              "requirement_tags": [
+                "BBA Management Requirement"
+              ],
+              "note": "",
+              "credits_min": 3,
+              "credits_max": 3,
+              "credits_raw": "3 credits"
+            },
+            {
+              "kind": "course",
+              "code": "0207-274",
+              "prefix": "DSC",
+              "code_raw": "DSC 0207-274",
+              "code_fixed": false,
+              "title": "Data Analysis & Decision Making",
+              "requirement": "BBA Management Requirement",
+              "requirement_tags": [
+                "BBA Management Requirement"
+              ],
+              "note": "",
+              "credits_min": 3,
+              "credits_max": 3,
+              "credits_raw": "3 credits"
+            },
+            {
+              "kind": "course",
+              "code": "0204-341",
+              "prefix": "BUS",
+              "code_raw": "BUS 0204-341",
+              "code_fixed": false,
+              "title": "International Business",
+              "requirement": "BBA Management Requirement, PATH Learning Goal",
+              "requirement_tags": [
+                "BBA Management Requirement",
+                "PATH Learning Goal"
+              ],
+              "note": "",
+              "credits_min": 3,
+              "credits_max": 3,
+              "credits_raw": "3 credits"
+            },
+            {
+              "kind": "elective",
+              "elective_type": "free_elective",
+              "label": "Free Elective",
+              "requirement": "BBA Management Requirement",
+              "requirement_tags": [
+                "BBA Management Requirement"
+              ],
+              "reference_url": null,
+              "note": "",
+              "suggested_codes": [],
+              "credits_min": 3,
+              "credits_max": 3,
+              "credits_raw": "3 credits"
+            },
+            {
+              "kind": "elective",
+              "elective_type": "free_elective",
+              "label": "Free Elective",
+              "requirement": "BBA Management Requirement",
+              "requirement_tags": [
+                "BBA Management Requirement"
+              ],
+              "reference_url": null,
+              "note": "",
+              "suggested_codes": [],
+              "credits_min": 3,
+              "credits_max": 3,
+              "credits_raw": "3 credits"
+            },
+            {
+              "kind": "course",
+              "code": "0213-102",
+              "prefix": "BFD",
+              "code_raw": "BFD 0213 102",
+              "code_fixed": false,
+              "title": "Advanced Edge",
+              "requirement": "BBA Management Requirement",
+              "requirement_tags": [
+                "BBA Management Requirement"
+              ],
+              "note": "For students who entered AU after spring of 2023 ONLY",
+              "credits_min": 0,
+              "credits_max": 0,
+              "credits_raw": "0 credits"
+            }
+          ]
+        },
+        {
+          "year": 3,
+          "year_label": "Third Year",
+          "term": "Spring",
+          "semester_index": 6,
+          "stated_total_min": 15,
+          "stated_total_max": 16,
+          "rows": [
+            {
+              "kind": "elective",
+              "elective_type": "path_elective",
+              "label": "PATH Elective",
+              "requirement": "PATH Course Requirements and Learning Goals",
+              "requirement_tags": [],
+              "reference_url": "https://www.adelphi.edu/path/course-requirements-and-learning-goals/",
+              "note": "",
+              "suggested_codes": [],
+              "credits_min": 3,
+              "credits_max": 3,
+              "credits_raw": "3 credits"
+            },
+            {
+              "kind": "elective",
+              "elective_type": "specialization_business_elective",
+              "label": "Specialization/Business Elective",
+              "requirement": "BBA Management Requirement",
+              "requirement_tags": [
+                "BBA Management Requirement"
+              ],
+              "reference_url": null,
+              "note": "",
+              "suggested_codes": [],
+              "credits_min": 3,
+              "credits_max": 3,
+              "credits_raw": "3 credits"
+            },
+            {
+              "kind": "course",
+              "code": "0209-330",
+              "prefix": "FIN",
+              "code_raw": "FIN 0209-330",
+              "code_fixed": false,
+              "title": "Managerial Finance",
+              "requirement": "BBA Management Requirement",
+              "requirement_tags": [
+                "BBA Management Requirement"
+              ],
+              "note": "",
+              "credits_min": 3,
+              "credits_max": 3,
+              "credits_raw": "3 credits"
+            },
+            {
+              "kind": "elective",
+              "elective_type": "free_elective",
+              "label": "Free Elective",
+              "requirement": "BBA Management Requirement",
+              "requirement_tags": [
+                "BBA Management Requirement"
+              ],
+              "reference_url": null,
+              "note": "",
+              "suggested_codes": [],
+              "credits_min": 3,
+              "credits_max": 3,
+              "credits_raw": "3 credits"
+            },
+            {
+              "kind": "course",
+              "code": "0208-367",
+              "prefix": "HRM",
+              "code_raw": "HRM 0208-367",
+              "code_fixed": false,
+              "title": "Management of Human Resources",
+              "requirement": "BBA Management Requirement",
+              "requirement_tags": [
+                "BBA Management Requirement"
+              ],
+              "note": "",
+              "credits_min": 3,
+              "credits_max": 3,
+              "credits_raw": "3 credits"
+            },
+            {
+              "kind": "course",
+              "code": "0204-380",
+              "prefix": "BUS",
+              "code_raw": "BUS 0204- 380",
+              "code_fixed": false,
+              "title": "Consulting Project",
+              "requirement": "BBA Management Requirement",
+              "requirement_tags": [
+                "BBA Management Requirement"
+              ],
+              "note": "For students who enter AU Summer 2024/Fall 2024 ONLY",
+              "credits_min": 1,
+              "credits_max": 1,
+              "credits_raw": "1 credit"
+            }
+          ]
+        },
+        {
+          "year": 4,
+          "year_label": "Fourth Year",
+          "term": "Fall",
+          "semester_index": 7,
+          "stated_total_min": 15,
+          "stated_total_max": 15,
+          "rows": [
+            {
+              "kind": "course",
+              "code": "0215-461",
+              "prefix": "ENT",
+              "code_raw": "ENT 0215-461",
+              "code_fixed": false,
+              "title": "Entrepreneurship",
+              "requirement": "BBA Management Requirement",
+              "requirement_tags": [
+                "BBA Management Requirement"
+              ],
+              "note": "",
+              "credits_min": 3,
+              "credits_max": 3,
+              "credits_raw": "3 credits"
+            },
+            {
+              "kind": "elective",
+              "elective_type": "specialization_business_elective",
+              "label": "Specialization/Business Elective",
+              "requirement": "BBA Management Requirement",
+              "requirement_tags": [
+                "BBA Management Requirement"
+              ],
+              "reference_url": null,
+              "note": "",
+              "suggested_codes": [],
+              "credits_min": 3,
+              "credits_max": 3,
+              "credits_raw": "3 credits"
+            },
+            {
+              "kind": "course",
+              "code": "0207-373",
+              "prefix": "DSC",
+              "code_raw": "DSC 0207-373",
+              "code_fixed": false,
+              "title": "Management of Productions/Operations",
+              "requirement": "BBA Management Requirement",
+              "requirement_tags": [
+                "BBA Management Requirement"
+              ],
+              "note": "",
+              "credits_min": 3,
+              "credits_max": 3,
+              "credits_raw": "3 credits"
+            },
+            {
+              "kind": "elective",
+              "elective_type": "path_elective",
+              "label": "PATH Elective",
+              "requirement": "PATH Course Requirements and Learning Goals",
+              "requirement_tags": [],
+              "reference_url": "https://www.adelphi.edu/path/course-requirements-and-learning-goals/",
+              "note": "",
+              "suggested_codes": [],
+              "credits_min": 3,
+              "credits_max": 3,
+              "credits_raw": "3 credits"
+            },
+            {
+              "kind": "elective",
+              "elective_type": "free_elective",
+              "label": "Free Elective",
+              "requirement": "BBA Management Requirement",
+              "requirement_tags": [
+                "BBA Management Requirement"
+              ],
+              "reference_url": null,
+              "note": "",
+              "suggested_codes": [],
+              "credits_min": 3,
+              "credits_max": 3,
+              "credits_raw": "3 credits"
+            }
+          ]
+        },
+        {
+          "year": 4,
+          "year_label": "Fourth Year",
+          "term": "Spring",
+          "semester_index": 8,
+          "stated_total_min": 12,
+          "stated_total_max": 13,
+          "rows": [
+            {
+              "kind": "elective",
+              "elective_type": "path_elective",
+              "label": "PATH Elective",
+              "requirement": "PATH Course Requirements and Learning Goals",
+              "requirement_tags": [],
+              "reference_url": "https://www.adelphi.edu/path/course-requirements-and-learning-goals/",
+              "note": "",
+              "suggested_codes": [],
+              "credits_min": 3,
+              "credits_max": 3,
+              "credits_raw": "3 credits"
+            },
+            {
+              "kind": "elective",
+              "elective_type": "specialization_business_elective",
+              "label": "Specialization/Business Elective",
+              "requirement": "BBA Management Requirement",
+              "requirement_tags": [
+                "BBA Management Requirement"
+              ],
+              "reference_url": null,
+              "note": "",
+              "suggested_codes": [],
+              "credits_min": 3,
+              "credits_max": 3,
+              "credits_raw": "3 credits"
+            },
+            {
+              "kind": "elective",
+              "elective_type": "free_elective",
+              "label": "Free Elective",
+              "requirement": "BBA Management Requirement",
+              "requirement_tags": [
+                "BBA Management Requirement"
+              ],
+              "reference_url": null,
+              "note": "",
+              "suggested_codes": [],
+              "credits_min": 3,
+              "credits_max": 4,
+              "credits_raw": "3-4 credits"
+            },
+            {
+              "kind": "course",
+              "code": "0204-468",
+              "prefix": "BUS",
+              "code_raw": "BUS 0204-468",
+              "code_fixed": false,
+              "title": "Business Policy & Strategy",
+              "requirement": "BBA Management Requirement",
+              "requirement_tags": [
+                "BBA Management Requirement"
+              ],
+              "note": "",
+              "credits_min": 3,
+              "credits_max": 3,
+              "credits_raw": "3 credits"
+            }
+          ]
+        }
+      ],
+      "credit_check": {
+        "expected": 121,
+        "page_stated_total": 121,
+        "sum_of_semester_totals": [
+          119,
+          122
+        ],
+        "sum_of_rows": [
+          119,
+          122
+        ]
+      }
+    }
+  }
+}
